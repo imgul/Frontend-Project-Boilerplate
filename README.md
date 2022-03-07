@@ -1,1 +1,1 @@
-# Project Name
+# Frontend Project Boilerplate
