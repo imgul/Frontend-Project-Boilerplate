@@ -1,4 +1,8 @@
+Go to [GUIDE.md](../../../GUIDE.md) for General Guidelines.
+
 # Guide for creating icons
+
+Create all the favicons according to given guide.
 
 ## Web Manifest Icons
 
