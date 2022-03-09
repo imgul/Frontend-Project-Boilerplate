@@ -1,4 +1,4 @@
-Go to [README.md](../../../GUIDE.md) for General Guidelines.
+Go to [README.md](../../../README.md) for General Guidelines.
 
 # Guide for creating icons
 
