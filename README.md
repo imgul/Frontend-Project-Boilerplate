@@ -60,3 +60,5 @@ npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch
 ## Markdown Guide
 
 1. `Ctrl+Shift+V` Markdown preview in VS Code.
+├──
+└──
